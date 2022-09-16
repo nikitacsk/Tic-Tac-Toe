@@ -1,0 +1,17 @@
+C:\Users\nikitacsk\source\repos\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\net6.0-windows\TIC-TAC-TOE.csproj.AssemblyReference.cache
+C:\Users\nikitacsk\source\repos\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\net6.0-windows\TIC_TAC_TOE.Form1.resources
+C:\Users\nikitacsk\source\repos\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\net6.0-windows\TIC-TAC-TOE.csproj.GenerateResource.cache
+C:\Users\nikitacsk\source\repos\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\net6.0-windows\TIC-TAC-TOE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikitacsk\source\repos\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\net6.0-windows\TIC-TAC-TOE.AssemblyInfoInputs.cache
+C:\Users\nikitacsk\source\repos\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\net6.0-windows\TIC-TAC-TOE.AssemblyInfo.cs
+C:\Users\nikitacsk\source\repos\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\net6.0-windows\TIC-TAC-TOE.csproj.CoreCompileInputs.cache
+C:\Users\nikitacsk\source\repos\TIC-TAC-TOE\TIC-TAC-TOE\bin\Debug\net6.0-windows\TIC-TAC-TOE.exe
+C:\Users\nikitacsk\source\repos\TIC-TAC-TOE\TIC-TAC-TOE\bin\Debug\net6.0-windows\TIC-TAC-TOE.deps.json
+C:\Users\nikitacsk\source\repos\TIC-TAC-TOE\TIC-TAC-TOE\bin\Debug\net6.0-windows\TIC-TAC-TOE.runtimeconfig.json
+C:\Users\nikitacsk\source\repos\TIC-TAC-TOE\TIC-TAC-TOE\bin\Debug\net6.0-windows\TIC-TAC-TOE.dll
+C:\Users\nikitacsk\source\repos\TIC-TAC-TOE\TIC-TAC-TOE\bin\Debug\net6.0-windows\TIC-TAC-TOE.pdb
+C:\Users\nikitacsk\source\repos\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\net6.0-windows\TIC-TAC-TOE.dll
+C:\Users\nikitacsk\source\repos\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\net6.0-windows\refint\TIC-TAC-TOE.dll
+C:\Users\nikitacsk\source\repos\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\net6.0-windows\TIC-TAC-TOE.pdb
+C:\Users\nikitacsk\source\repos\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\net6.0-windows\TIC-TAC-TOE.genruntimeconfig.cache
+C:\Users\nikitacsk\source\repos\TIC-TAC-TOE\TIC-TAC-TOE\obj\Debug\net6.0-windows\ref\TIC-TAC-TOE.dll
